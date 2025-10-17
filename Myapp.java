@@ -3,6 +3,8 @@ public class Myapp {
 		int a=10, int b=20;
 		System.out.println("ADdition is:+(a+b));
 		System.out.println("difference is:+(a-b));
+		System.out.println("product is:+(a*b));
+		System.out.println("division is:+(a/b));
 	}
 }
 
